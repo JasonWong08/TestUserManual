@@ -41,7 +41,7 @@ Please refer to the option list to set up the board's upload speed, CPU frequenc
 
 There is a setting for the **Flash Size** and **Partition Scheme** among the options. For more information, refer to the next section.&#x20;
 
-<figure><img src="../.gitbook/assets/image (329).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (329).png" alt="" /><figcaption></figcaption></figure>
 
 ### 2.4 Choose hardware partition
 
@@ -51,7 +51,7 @@ The BiBoard uses an ESP32 with a **16 M** flash. To simplify, you can use the **
 
 You can use the default 4MB with spiffs. You can also use other partition schemes under the 4 MB flash limit, such as "No OTA" or "Huge APP".&#x20;
 
-<figure><img src="../.gitbook/assets/BiBoard4M.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/BiBoard4M.png" alt="" /><figcaption></figcaption></figure>
 
 #### 16 MB partition
 
@@ -66,14 +66,14 @@ We keep updating the codes as an open-source project. You can star-mark and foll
 * Download the ​OpenCatEsp32 repository from GitHub repository: [https://github.com/PetoiCamp/OpenCatEsp32](https://github.com/PetoiCamp/OpenCatEsp32)\
   We suggest you utilize GitHub’s version control feature. Otherwise, make sure you download the **WHOLE OpenCatEsp32 FOLDER** every time. All the codes have to be the same version to work together.&#x20;
 
-<figure><img src="../.gitbook/assets/downloadEsp32Repo.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/downloadEsp32Repo.png" alt="" /><figcaption></figcaption></figure>
 
 * If you download the Zip file of the codes, you will get an **OpenCatEsp32-main** folder after unzipping. Please rename it to **OpenCatEsp32** before opening the **OpenCatEsp32.ino** so that the two names match.&#x20;
 
 {% hint style="warning" %}
 No matter where you save the folder, the file structure should be:
 
-![](<../.gitbook/assets/OpenCatEsp32_tree (1).png>)&#x20;
+![](../.gitbook/assets/OpenCatEsp32_tree (1).png)&#x20;
 {% endhint %}
 
 * There are several **test\*\*\*.ino** codes in the **ModuleTests** folder. You can upload them separately to test specific modules (I recommend using **testBuzzer.ino** as your first test sketch).
@@ -82,7 +82,7 @@ No matter where you save the folder, the file structure should be:
 
 Set the serial port in the Arduino IDE:
 
-<figure><img src="../.gitbook/assets/image (461).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (461).png" alt="" /><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 If you cannot find the serial port after connecting to your computer:
@@ -122,7 +122,7 @@ Otherwise, please comment out this line code.
 
 After the modification is completed, you can click the **Upload** button (as below) to upload OpenCatEsp32.ino, and the changes in the program will be automatically saved.
 
-<figure><img src="../.gitbook/assets/image (515).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (515).png" alt="" /><figcaption></figcaption></figure>
 
 ### 2.8 Swith mode via the serial commands (Optional)
 
@@ -231,7 +231,7 @@ The main program of Bittle judges whether it has been initialized by comparing t
 
 * Long-press the battery button and boot up the robot with one side up. It will enter the calibration state automatically. The picture below shows the upper and lower legs installed after the robot enters the calibration state.
 
-![](<../.gitbook/assets/SideUp (1).jpg>)
+![](../.gitbook/assets/SideUp (1).jpg)
 
 Please refer to [Chapter 5 🔌 Connect Wires](https://bittle.petoi.com/5-connect-wires) and [Chapter 6 📐 Calibration](https://bittle.petoi.com/6-calibration) for the complete calibration process.
 
