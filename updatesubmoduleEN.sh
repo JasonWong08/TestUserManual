@@ -6,6 +6,8 @@ SUBMODULE_PATH="components"
 # 目标目录
 TARGET_DIR="user_manual_en"
 
+git submodule add https://github.com/PetoiCamp/docs.git components
+
 # 更新子模块
 echo "Updating submodule..."
 git submodule update --remote --merge "$SUBMODULE_PATH"
