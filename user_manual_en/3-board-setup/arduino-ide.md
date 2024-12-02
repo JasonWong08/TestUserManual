@@ -73,7 +73,7 @@ We keep updating the codes as an open-source project. You can star-mark and foll
 {% hint style="warning" %}
 No matter where you save the folder, the file structure should be:
 
-![](../.gitbook/assets/OpenCatEsp32_tree (1).png)&#x20;
+![](<../.gitbook/assets/OpenCatEsp32_tree (1).png>)&#x20;
 {% endhint %}
 
 * There are several **test\*\*\*.ino** codes in the **ModuleTests** folder. You can upload them separately to test specific modules (I recommend using **testBuzzer.ino** as your first test sketch).
@@ -231,7 +231,7 @@ The main program of Bittle judges whether it has been initialized by comparing t
 
 * Long-press the battery button and boot up the robot with one side up. It will enter the calibration state automatically. The picture below shows the upper and lower legs installed after the robot enters the calibration state.
 
-![](../.gitbook/assets/SideUp (1).jpg)
+![](<../.gitbook/assets/SideUp (1).jpg>)
 
 Please refer to [Chapter 5 🔌 Connect Wires](https://bittle.petoi.com/5-connect-wires) and [Chapter 6 📐 Calibration](https://bittle.petoi.com/6-calibration) for the complete calibration process.
 
