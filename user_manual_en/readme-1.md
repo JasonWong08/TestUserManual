@@ -17,6 +17,8 @@ Thank you very much for purchasing our product! We highly value your user experi
 
 ## Unboxing
 
+### Product List
+
 <figure><img src=".gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
@@ -39,18 +41,16 @@ It enables Nybble Q to perform advanced movements, such as rolling over, standin
 
 For shipping safety, the body and tail are packed separately. Please assemble them according to the instructions.
 
-<figure><img src=".gitbook/assets/尾巴安装.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/尾巴安装.gif" alt=""><figcaption><p>Installing the Tail</p></figcaption></figure>
 
 Steps:
 
-1. Check if the contour surface of the tail rudder disk has a smooth transition, avoiding any right-angle bends.
-2. Locate the notch on the tail rudder disk, then place the metal shaft of the tail onto the notch of the rudder disk.
-3. Keep the tail body flush against the metal shaft and rotate it downward around the shaft. During this process, the tail body may come into contact with the servo arm. Continue applying downward force until you hear a click, indicating that the metal shaft of the tail has snapped into the notch of the rudder disk.
+1. Check if the contour surface of the tail servo arm has a smooth transition, avoiding any right-angle bends.
+2. Locate the notch on the tail servo arm, then place the metal shaft of the tail onto the notch of the servo arm.
+3. Keep the tail body flush against the metal shaft and rotate it downward around the shaft. During this process, the tail body may come into contact with the servo arm. Continue applying downward force until you hear a click, indicating that the metal shaft of the tail has snapped into the notch of the servo arm.
 4. To disassemble the tail, follow the reverse of the installation steps.
 
 <figure><img src=".gitbook/assets/image (39).png" alt=""><figcaption><p>The red circled area is the surface after the 3D printed supports are removed. It may sometimes be uneven and could affect the installation of the tail. You can use nippers/side cutters to trim it.</p></figcaption></figure>
-
-
 
 {% hint style="info" %}
 If the wheel on the tail is not rotating smoothly, possible causes could be:
@@ -113,7 +113,7 @@ After removing the back cover, note the relative orientation between the circuit
 
 Reconnecting the cable to the circuit board is the reverse process: align the cable, ensuring proper orientation, and press it firmly into place.
 
-<figure><img src=".gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (14).png" alt=""><figcaption><p>Operation to Remove the Touch FPC</p></figcaption></figure>
 
 **Side Panel**
 
