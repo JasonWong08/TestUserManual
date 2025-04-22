@@ -3,15 +3,7 @@
 * [Nybble Q User Manual](README.md)
 * [1 🧘‍♂️ Preparation](readme-1.md)
 * [2 🧩 Open the Box](2-open-the-box.md)
-* [3 ⌨️ Board Setup](3-board-setup/README.md)
-  * [Desktop App](3-board-setup/desktop-app.md)
-  * [Arduino IDE](3-board-setup/arduino-ide.md)
-* [4 📐 Calibration](4-calibration/README.md)
-  * [Principle](4-calibration/principle.md)
-  * [Desktop App](4-calibration/desktop-app.md)
-  * [Mobile App](4-calibration/mobile-app.md)
-  * [Arduino IDE](4-calibration/arduino-ide.md)
-* [5 🕹 Play with Nybble Q](5-play-with-nybble-q/README.md)
+* [3 🕹 Play with Nybble Q](5-play-with-nybble-q/README.md)
   * [Voice Commands](5-play-with-nybble-q/voice-commands.md)
   * [Mobile App](5-play-with-nybble-q/mobile-app.md)
   * [Coding Blocks](5-play-with-nybble-q/coding-blocks.md)
@@ -32,9 +24,15 @@
       * [Model quantification](5-play-with-nybble-q/extensible-modules/advanced-development-and-application-of-ai-vision-modules/model-quantification.md)
       * [Model deployment](5-play-with-nybble-q/extensible-modules/advanced-development-and-application-of-ai-vision-modules/model-deployment.md)
       * [Training on the COCO DIY dataset](5-play-with-nybble-q/extensible-modules/advanced-development-and-application-of-ai-vision-modules/training-on-the-coco-diy-dataset.md)
-* [6 👨‍🏫 Teach Nybble Q New Skills](6-teach-nybble-q-new-skills/README.md)
+* [4 👨‍🏫 Advanced Features](6-teach-nybble-q-new-skills/README.md)
   * [Desktop App](6-teach-nybble-q-new-skills/desktop-app.md)
   * [Arduino Code](6-teach-nybble-q-new-skills/arduino-code.md)
+
+## Mobile APP
+
+* [Overview](mobile-app/overview.md)
+* [Joint Calibration](mobile-app/joint-calibration.md)
+* [Control Panel](mobile-app/control-panel.md)
 
 ## Useful links 🕸
 

@@ -8,7 +8,7 @@ description: More cute and easier.
 
 Nybble Q is an open-source, voice-controlled robotic cat. It's a new breed of robotic cat that everyone can learn and play with.
 
-<figure><img src=".gitbook/assets/NybbleQ.png" alt="" /><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/普通眼睛背景更亮抠图.png" alt=""><figcaption></figcaption></figure>
 
 The small but mighty Nybble Q has these fantastic features:
 
@@ -18,7 +18,7 @@ The small but mighty Nybble Q has these fantastic features:
 * **Free** [C++](https://www.petoi.com/pages/free-cplusplus-quadruped-robotics-curriculum) and [Petoi Coding Blocks](https://www.petoi.com/pages/free-quadruped-robotics-curriculum-scratch-coding)(block-based Scratch-like) **curriculums**.
 * Equipped with BiBoard V1, a high-performance **ESP32** development board supporting additional modules for robotics/AI/IoT applications.
 
-If you have questions about _**why**_ rather than _**how**_, please post on our forum at [https://www.petoi.com/forum](https://www.petoi.com/forum) or write to [support@petoi.com](mailto:support@petoi.com).
+If you have questions about _**why**_ or _**how**_, please post on our forum at [https://www.petoi.com/forum](https://www.petoi.com/forum) or write to [support@petoi.com](mailto:support@petoi.com).
 
 There are some [supporting applications, software](https://docs.petoi.com/technical-support/supporting-application-and-software), and [FAQs](https://docs.petoi.com/technical-support/faq-frequently-asked-questions) for your reference.
 
