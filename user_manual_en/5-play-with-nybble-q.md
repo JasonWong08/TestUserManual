@@ -1,7 +1,3 @@
----
-description: 会动的小猫
----
-
 # 3 🕹 Play with Nybble Q
 
 The Nybble Q robot is equipped with various sensors and modules including a gyroscope, touch sensors, ultrasonic sensors, voice recognition, and Bluetooth. You can try patting it or stroking its back to observe its reactions.
@@ -30,7 +26,7 @@ You can say "Bing Bing" to switch to English mode, or "Di Di" to switch to Chine
 Please check the postcard included in the packaging box. The backside lists a variety of voice commands to control additional robot actions.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
 **Turning the Voice Recognition Feature on and off**
 
@@ -64,7 +60,7 @@ To delete all custom voice commands at once, say the voice command "Clear the le
 
 GIF——
 
-**Place on a flat surface with slight shaking, balance response**
+**Place on a flat surface with slight shaking, and balance response**
 
 GIF——
 
@@ -92,7 +88,7 @@ Nybble Q features four independent touch areas on its back, located on the left 
 
 #### Touch Point Layout
 
-<figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
 Touch Areas & Responses：
 
@@ -104,9 +100,8 @@ Touch Areas & Responses：
 {% hint style="warning" %}
 Usage Tips:
 
-1.Nybble Q will not execute new actions if the same spot is touched repeatedly or if two touch points are pressed simultaneously.
-
-2.Wait for the current action to complete before triggering a new command to ensure smooth interaction.
+1. Nybble Q will not execute new actions if the same spot is touched repeatedly or if two touch points are pressed simultaneously.
+2. Wait for the current action to complete before triggering a new command to ensure smooth interaction.
 {% endhint %}
 
 ### **Ultrasonic**
@@ -135,15 +130,15 @@ The robot and micro:bit controller connect via Bluetooth.
 
 Please turn on the micro:bit controller first, then power on or restart the robot. Please do not reverse this order.
 
-After powering on, the controller and robot will automatically pair. If multiple robots are powered on, pairing follows a first-come-first-served rule.
+After powering on, the controller and robot will automatically pair. If multiple robots are powered on, pairing follows a first-come, first-served rule.
 
-A connection sound plays once paired, and the letter N (for Nybble) is displayed.
+A connection sound plays once the device is paired, and the letter N (for Nybble) is displayed.
 
 图片——看是否需要
 
 **Basic Operations**
 
-<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
 **Joystick (left side):**
 

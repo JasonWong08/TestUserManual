@@ -1,2 +1,0 @@
-# PIR Motion Sensor
-

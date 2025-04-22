@@ -12,7 +12,7 @@ To prevent the servos from getting stuck, please adjust the robot's legs to the 
 
 ## Usage Scenario
 
-First test it on the calibrator and use it on a stable table or floor only after familiarizing yourself with its operation.
+First, test it on the calibrator and use it on a stable table or floor only after you have familiarized yourself with its operation.
 
 <figure><img src=".gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
 
@@ -22,20 +22,20 @@ When using it on a table, keep it within your arm's reach to prevent it from fal
 
 ## Power On
 
-Simply turn on the robot's battery to start using it. If you encounter any issues during operation, please refer to the Other Situations below.
+Turn on the robot's battery to start using it. If you encounter any issues during operation, please refer to the "Other Situations" below.
 
 ### Battery Switch
 
-Press and hold the battery button for 2 to 3 seconds to turn the power on/off. You will hear a short melody, and the battery indicator will light up blue. If the indicator is red, refer to the charging method below.
+Press and hold the battery button for 2 to 3 seconds to turn the power on or off. You will hear a short melody, and the battery indicator will light up blue. If the indicator is red, refer to the charging method below.
 
 <figure><img src=".gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-After turning on the battery, the robot requires approximately 5 seconds for initialization, and a melody will play upon completion;
+After turning on the battery, the robot requires approximately 5 seconds for initialization, and a melody will play upon completion.
 
-During storage and transportation, the robot's battery charge may decrease. When using it for the first time, please ensure the battery is sufficiently charged;
+During storage and transportation, the robot's battery charge may decrease. When using it for the first time, please ensure the battery is sufficiently charged.
 
-It is recommended to place the robot on the calibration stand before long-pressing to activate the battery;
+It is recommended to place the robot on the calibration stand before pressing the button to activate the battery.
 
 If you use the robot on the floor, please ensure the robot is positioned upright after activating the battery. Otherwise, it will continuously attempt to flip itself over or perform other corrective motions upon startup;
 
@@ -46,23 +46,23 @@ If the robot is placed on its side when powered on, it will automatically initia
 
 Before use, please read the instructions on the bottom of the packaging box carefully to ensure correct operation of the battery.
 
-<figure><img src=".gitbook/assets/image (43).png" alt=""><figcaption><p>        Low Battery                                   Full Battery                              Intermediate Battery</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (43).png" alt=""><figcaption><p>        Low Power                                 Full Power                              Intermediate Power</p></figcaption></figure>
 
 Press and hold the blue button on the battery for 2–3 seconds to turn the power on or off.\
-During charging, the indicator light shows red; after charging is complete, the indicator light turns green.\
+During charging, the indicator light turns red; after charging is complete, it turns green.\
 Press the blue button briefly to check the battery status:
 
 · When fully charged, the indicator light is blue.
 
-· When voltage is low, the indicator light is red.
+· When the voltage is low, the indicator light is red.
 
 · During battery depletion, the indicator color gradually changes from blue to red.
 
 Note the correct use of battery interfaces: Use the Type-C interface for charging, and the 2P 2.54MM red-black wire terminal interface to power Nybble Q. Please don't mix them up:
 
-If the robot detects low battery, it will pause movements and beep. At this time, you need to remove the battery and charge it using a standard 5V USB Type-C interface data cable. For safety reasons, the battery will automatically stop supplying power to the robot during charging.
+If the robot detects a low battery, it will pause its movements and beep. In this case, you need to remove the battery and charge it using a standard 5V USB Type-C interface data cable. For safety reasons, the battery will automatically stop supplying power to the robot during charging.
 
-### Buzzer Sounds**声音**
+### Buzzer Sound Types
 
 | **Sound**                  | **Trigger Timing**             | **Indication**                       |
 | -------------------------- | ------------------------------ | ------------------------------------ |
@@ -86,11 +86,11 @@ Please do not confuse the circuit board’s download port with the battery charg
 
 There are two charging methods:
 
-1 Remove only the battery from the main body, which is quick and simple.
+1. Remove only the battery from the main body, which is a quick and simple process.
 
 <figure><img src=".gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
 
-2 Remove the side panel first, then detach the battery from the circuit board to fully separate the battery from the main body. This method is suitable for users with spare batteries.
+2. Remove the side panel first, then detach the battery from the circuit board to fully separate the battery from the main body. This method is suitable for users with spare batteries.
 
 <figure><img src=".gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
 
@@ -100,7 +100,7 @@ There are two charging methods:
 
 ### Replacing the Battery
 
-The operation is the same as charging method 2 mentioned above.
+The operation is the same as the charging method two mentioned above.
 
 ### Device Freezing or Unresponsive
 
@@ -108,7 +108,7 @@ There are two solutions：
 
 1\. Check the battery indicator light. If the battery level is too low, please charge it promptly.
 
-2\. If the battery level is normal, remove the back cover and try pressing the reset button on the motherboard next to the LED logo to reboot the robot.
+2\. If the battery level is normal, remove the back cover and press the reset button on the motherboard, located next to the LED logo, to reboot the robot.
 
 <figure><img src=".gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
 
@@ -123,17 +123,17 @@ For plastic servos, we have added two protection mechanisms to extend their serv
 
 The plastic servo contains a clutch gear for protection.
 
-When powered on, if the servo's rotation is blocked by external obstacles, the clicking clutch sound will occur. Examples include:
+When powered on, if external obstacles block the servo's rotation, the clicking clutch sound will occur. Examples include:
 
 Manually rotating the servo away from its target angle;
 
-The servo being physically jammed;
+The servo is being physically jammed;
 
-The servo being obstructed by other objects.
+The servo is being obstructed by other objects.
 
 <figure><img src=".gitbook/assets/舵机离合.gif" alt=""><figcaption></figcaption></figure>
 
-### Sudden Servo Stoppage or Force Release:
+### Sudden Servo Stoppage or Force Release
 
 To enhance servo durability, we added stall current detection. If the servo is under prolonged force without triggering the clutch gear, it will automatically enter force-release mode.
 
