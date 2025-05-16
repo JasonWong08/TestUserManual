@@ -19,13 +19,20 @@ Thank you very much for purchasing our product! We highly value your user experi
 
 ### Product List
 
-<figure><img src=".gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Product list 01.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Note: Nybble Q is FDM 3D-printed, and its Z-axis strength is limited. Please do not apply excessive force during use. Avoid placing it near the edge of a table to prevent accidental falls, which may cause component breakage.
 {% endhint %}
 
 <table><thead><tr><th width="487.390625">Name</th><th>Quantity</th></tr></thead><tbody><tr><td>Main Unit: Nybble Q robotic cat</td><td>1</td></tr><tr><td>Assembly Components: Tail/Calibrator parts</td><td>1</td></tr><tr><td>Manual: Stickers/Postcard (with voice commands on the back)/Calibrator manual</td><td>1</td></tr><tr><td>Tools: Self-tapping screwdriver/USB cable</td><td>1</td></tr><tr><td>Spare Parts: Spare tail servo horn/Spare servo/Raspberry Pi mount/Springs &#x26; screws</td><td>1</td></tr></tbody></table>
+
+{% hint style="info" %}
+In later batches, we have included this Nybble test stand for free.\
+
+
+<img src=".gitbook/assets/stand.png" alt="" data-size="original">
+{% endhint %}
 
 ### Assembly
 
