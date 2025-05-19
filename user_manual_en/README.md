@@ -2,7 +2,7 @@
 description: More cute and easier.
 ---
 
-# Nybble Q User Manual
+# 🇺🇸 Nybble Q User Manual
 
 ## Getting Started
 
