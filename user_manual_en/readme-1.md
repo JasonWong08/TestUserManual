@@ -134,6 +134,12 @@ During subsequent use, when components such as servos or batteries need replacem
 
 <figure><img src=".gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
+## Ultrasonic Sensor
+
+The sensor should connect to the first Grove socket.
+
+<figure><img src=".gitbook/assets/groveUltrasonic.jpg" alt=""><figcaption></figcaption></figure>
+
 ## Tools and Accessories
 
 | Tool                         | Notes                                                                                                                                                                                                                                                                                                 |
