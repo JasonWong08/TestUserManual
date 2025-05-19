@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🇺🇸 Nybble Q User Manual](README.md)
+* [🐱 Nybble Q User Manual](README.md)
 * [1 🧘‍♂️ Preparation](readme-1.md)
 * [2 🧩 Turn on the Robot](2-open-the-box.md)
 * [3 🕹 Play with Nybble Q](5-play-with-nybble-q.md)
