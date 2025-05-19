@@ -78,7 +78,7 @@ To facilitate debugging the robot and prevent falls, we have designed a speciali
 
 ### Commonly Used Removable Parts
 
-**Battery**
+#### **Battery**
 
 When the battery is dead (the indicator light is red) or needs replacement, the battery must be removed from the body.
 
@@ -96,7 +96,7 @@ Please ensure the charging port of the battery aligns with the direction of the 
 <img src=".gitbook/assets/image (9).png" alt="" data-size="original">
 {% endhint %}
 
-**Back Cover**
+#### **Back Cover**
 
 {% hint style="warning" %}
 Please do not forcibly separate the back cover from the body, as a flex cable connects the touch circuit board between them. Excessive force may cause the flex cable to come off or even break.
@@ -112,7 +112,7 @@ For proper orientation during reinstallation, align the back cover by referencin
 
 <figure><img src=".gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
-**Back Cover Touch Circuit Board**
+#### **Back Cover Touch Circuit Board**
 
 Under normal circumstances, there is no need to remove the flexible printed circuit (FPC) for touch functionality from the back cover. If you wish to detach the back cover FPC completely, please follow these steps:
 
@@ -122,7 +122,7 @@ Reconnecting the cable to the circuit board is the reverse process: align the ca
 
 <figure><img src=".gitbook/assets/image (14).png" alt=""><figcaption><p>Operation to Remove the Touch FPC</p></figcaption></figure>
 
-**Side Panel**
+#### **Side Panel**
 
 The side panels are decorative components that conceal the servo wires inside the robot. They connect to the main body via snap-fit connectors.
 
@@ -134,7 +134,7 @@ During subsequent use, when components such as servos or batteries need replacem
 
 <figure><img src=".gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
-## Ultrasonic Sensor
+#### Ultrasonic Sensor
 
 The sensor should connect to the first Grove socket.
 
