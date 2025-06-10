@@ -28,10 +28,11 @@ Note: Nybble Q is FDM 3D-printed, and its Z-axis strength is limited. Please do 
 <table><thead><tr><th width="487.390625">Name</th><th>Quantity</th></tr></thead><tbody><tr><td>Main Unit: Nybble Q robotic cat</td><td>1</td></tr><tr><td>Assembly Components: Tail/Calibrator parts</td><td>1</td></tr><tr><td>Manual: Stickers/Postcard (with voice commands on the back)/Calibrator manual</td><td>1</td></tr><tr><td>Tools: Self-tapping screwdriver/USB cable</td><td>1</td></tr><tr><td>Spare Parts: Spare tail servo horn/Spare servo/Raspberry Pi mount/Springs &#x26; screws</td><td>1</td></tr></tbody></table>
 
 {% hint style="info" %}
-In later batches, we have included this Nybble test stand for free.\
+In later batches, we have included the Nybble test stand for free.\
 
 
-<img src=".gitbook/assets/stand.png" alt="" data-size="original">
+<img src=".gitbook/assets/stand.png" alt="" data-size="original">\
+We have also published the 3D structure and instructions of the bracket online. If you have a 3D printer, you can print it by yourself. Please check this page for the Nybble Q calibration stand: [https://makerworld.com/en/models/1504533-calibration-and-test-stand-for-nybble-q-robot#profileId-1574352](https://makerworld.com/en/models/1504533-calibration-and-test-stand-for-nybble-q-robot#profileId-1574352)
 {% endhint %}
 
 ### Assembly
@@ -82,7 +83,7 @@ To facilitate debugging the robot and prevent falls, we have designed a speciali
 
 When the battery is dead (the indicator light is red) or needs replacement, the battery must be removed from the body.
 
-The battery and the body are connected via a sliding groove with a snap latch. To detach the battery, slide it horizontally in the direction of the cat's head.
+The battery and the body are connected via a sliding groove with a snap latch. To detach the battery, slide it horizontally toward the cat's head.
 
 <figure><img src=".gitbook/assets/spaces_sH8LElvsjsHIa2uNVZzo_uploads_LFk7PL2TQ2PDHn6BD0XU_ 拆下电池.webp" alt=""><figcaption></figcaption></figure>
 
