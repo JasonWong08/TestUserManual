@@ -113,15 +113,19 @@ For proper orientation during reinstallation, align the back cover by referencin
 
 <figure><img src=".gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
-#### **Back Cover Touch Circuit Board**
+#### **Touch Circuit Board inside of Back Cover**&#x20;
 
 Under normal circumstances, there is no need to remove the flexible printed circuit (FPC) for touch functionality from the back cover. If you wish to detach the back cover FPC completely, please follow these steps:
 
-After removing the back cover, note the relative orientation between the circuit board and the back cover. There is a flip tab on the connector - lift this tab upward. Once the tab is flipped open, the cable beneath it can be fully detached along with the back cover and circuit board.
-
-Reconnecting the cable to the circuit board is the reverse process: align the cable, ensuring proper orientation, and press it firmly into place.
+After openning the back cover, note the relative orientation between the mainboard(BiBoard V1) and the back cover. There is a flip tab on the connector - lift this tab upward. Once the tab is flipped open, the cable beneath it can be fully detached along with the back cover and mainboard.
 
 <figure><img src=".gitbook/assets/image (14).png" alt=""><figcaption><p>Operation to Remove the Touch FPC</p></figcaption></figure>
+
+Reconnecting the cable to the mainboard is the reverse process: align the cable, ensuring proper orientation, and press it firmly into place.
+
+Here is the installation video:
+
+{% embed url="https://youtu.be/-2433ArtGSQ" %}
 
 #### **Side Panel**
 
